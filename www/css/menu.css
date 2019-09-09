@@ -15,3 +15,38 @@ border-radius: 50%;
 	background-color:#ebcf34;
 	color:#000 !important;
 }
+
+
+.navbar_foot {
+    padding: 15px 10px;
+   background-color:#ebcf34;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 0px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.navbar_foot .btn-primary  {
+  padding: 10px ;
+  padding-top:13px;
+  font-size: 1.45rem;
+  line-height: 1;
+  height:50px;width:50px;
+  color:#000 !important;
+  background-color: transparent;
+  border: 2px solid #000;
+  border-radius: 50%;
+  outline:0px;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.navbar_foot .btn-primary:hover, .btn-primary:focus {
+  text-decoration: none;outline:0px;
+}
+.navbar_foot .btn-primary:active {
+  background-color: #cccccc;outline:0px;
+  color:#333333;
+}
