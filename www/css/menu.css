@@ -1,0 +1,17 @@
+.navbar-dark{
+	
+	
+	background-color:transparent;
+	border:0px;
+	
+	
+}
+
+.navbar-dark .navbar-toggler{
+	height:50px;width:50px;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+border-radius: 50%;
+	background-color:#ebcf34;
+	color:#000 !important;
+}
